@@ -6,7 +6,7 @@
 
 
 # required user configuration
-DISCORD_WEBHOOK_URL="<Copy Webhook URL>"
+DISCORD_WEBHOOK_URL="https://discord.com/api/webhooks/982587105446350898/k0P3dE5Q1aL0Wjum3kBrTvG6CfJtlfUeM22eoSf_SBBceSCNtsTu1g5aTA3XfEnWzvjS"
 
 # use command as task name
 TASK_NAME="$1"
